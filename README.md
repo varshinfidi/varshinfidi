@@ -1,59 +1,32 @@
-Hi 👋, I'm Varshin Narasimman
+<h1 align="center">Hi 👋, I'm Varshin Narasimman</h1>
 
- XR Developer | Unreal Engine 5 | VR/AR | Blueprint Developer | Environment Artist
+<h3 align="center">
+XR Developer | Unreal Engine 5 | VR/AR | Environment Artist
+</h3>
 
-I'm an XR Developer passionate about creating immersive Virtual Reality, Mixed Reality, and Real-Time 3D experiences using Unreal Engine 5.
+<p align="center">
+Building immersive XR experiences with Unreal Engine 5.
+</p>
 
- 🚀 About Me
+👨‍💻 About Me
 
-- 🎮 Unreal Engine 5 Developer
-- 🥽 XR (VR/AR/MR) Developer
+- 💼 XR Developer with 1 year of professional experience
+- 🎮 Passionate about Unreal Engine 5 development
+- 🥽 Interested in Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR)
 - 🌍 Environment & Level Designer
-- 🎬 Cinematic Creator
-- 🔵 Blueprint Developer
-- 📍 Chennai, India
+- 🎬 Real-Time Cinematic Creator
+- 📍 Based in Chennai, India
 
+🚀 Currently Working On
 
- 🛠️ Skills
+- 🏛️ Keeladi VR Experience
+- 🎬 Unreal Engine Cinematic Environments
+- 🌿 Environment Design & Optimization
+- 📚 Learning advanced Unreal Engine workflows
 
-- Unreal Engine 5
-- Blueprints
-- VR Development
-- AR Development
-- Environment Design
-- Level Design
-- Lighting
-- Materials
-- PCG
-- MetaHuman
-- ConvAI
-- Git & GitHub
+🌐 Connect With Me
 
-
-
- 🌐 Portfolio
-
-- Portfolio: https://varshin-narasimman.lovable.app
-- LinkedIn: https://linkedin.com/in/varshin-narasimman
-- ArtStation: https://www.artstation.com/varshin_fidi
-- YouTube: https://www.youtube.com/@varshinnarasimman4149
-
-
-
-🚀 Featured Projects
-
-🏹 Mahabharatham VR
-VR Archery Combat Experience built in Unreal Engine 5.
-
-🤖 ClassLand
-AI-powered virtual classroom using MetaHuman and ConvAI.
-
-🔫 Echo of Silence
-FPS AI Shooter using Unreal Engine EQS.
-
-🎬 Unreal Cinematics
-Environment visualization and cinematic walkthroughs.
-
----
-
-⭐ Thanks for visiting my GitHub!
+- 🌍 Portfolio: https://varshin-narasimman.lovable.app
+- 💼 LinkedIn: https://www.linkedin.com/in/varshin-narasimman
+- 🎨 ArtStation: https://www.artstation.com/varshin_fidi
+- ▶️ YouTube: https://www.youtube.com/@varshinnarasimman4149
