@@ -42,6 +42,10 @@ Building immersive XR experiences with Unreal Engine 5 🚀
 <img src="https://img.shields.io/badge/ConvAI-5C2D91?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varshinfidi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinfidi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ## 🌐 Connect With Me
 
 - 🌍 **Portfolio :** https://varshin-narasimman.lovable.app
