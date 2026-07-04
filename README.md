@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshin Narasimman</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=XR+Developer;Unreal+Engine+5+Developer;VR+%7C+AR+%7C+MR+Developer;Blueprint+Developer;Real-Time+Cinematic+Creator" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=XR+Developer;Unreal+Engine+5+Developer;VR+%7C+AR+%7C+MR+Developer;Blueprint+Developer;Real-Time+Cinematic+Creator" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
