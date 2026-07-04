@@ -5,10 +5,12 @@
 
 
 <p align="center">
-Building immersive XR experiences with Unreal Engine 5.
+Building immersive XR experiences with Unreal Engine 5 🚀
 </p>
 
-👨‍💻 About Me
+<hr>
+
+## 👨‍💻 About Me
 
 - 💼 XR Developer with 1 year of professional experience
 - 🎮 Passionate about Unreal Engine 5 development
@@ -17,16 +19,16 @@ Building immersive XR experiences with Unreal Engine 5.
 - 🎬 Real-Time Cinematic Creator
 - 📍 Based in Chennai, India
 
-🚀 Currently Working On
+## 🚀 Currently Working On
 
 - 🏛️ Keeladi VR Experience
 - 🎬 Unreal Engine Cinematic Environments
 - 🌿 Environment Design & Optimization
 - 📚 Learning advanced Unreal Engine workflows
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://varshin-narasimman.lovable.app
-- 💼 LinkedIn: https://www.linkedin.com/in/varshin-narasimman
-- 🎨 ArtStation: https://www.artstation.com/varshin_fidi
-- ▶️ YouTube: https://www.youtube.com/@varshinnarasimman4149
+- 🌍 **Portfolio :** https://varshin-narasimman.lovable.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/varshin-narasimman
+- 🎨 **ArtStation:** https://www.artstation.com/varshin_fidi
+- ▶️ **YouTube:** https://www.youtube.com/@varshinnarasimman4149
