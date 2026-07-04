@@ -29,7 +29,7 @@ Building immersive XR experiences with Unreal Engine 5 🚀
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,figma,ps,cpp&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,figma,ps&perline=6" />
 </p>
 
 <p align="center">
@@ -42,13 +42,36 @@ Building immersive XR experiences with Unreal Engine 5 🚀
 <img src="https://img.shields.io/badge/ConvAI-5C2D91?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varshinfidi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinfidi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-## 🌐 Connect With Me
+<h2 align="center">🔥 GitHub Streak</h2>
 
-- 🌍 **Portfolio :** https://varshin-narasimman.lovable.app
-- 💼 **LinkedIn:** https://www.linkedin.com/in/varshin-narasimman
-- 🎨 **ArtStation:** https://www.artstation.com/varshin_fidi
-- ▶️ **YouTube:** https://www.youtube.com/@varshinnarasimman4149
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=varshinfidi&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://varshin-narasimman.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varshin-narasimman">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.artstation.com/varshin_fidi">
+<img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@varshinnarasimman4149">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/unreal.fidi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=varshinfidi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
