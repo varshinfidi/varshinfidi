@@ -26,6 +26,22 @@ Building immersive XR experiences with Unreal Engine 5 🚀
 - 🌿 Environment Design & Optimization
 - 📚 Learning advanced Unreal Engine workflows
 
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,figma,ps,cpp&perline=7" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blueprints-137CBD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VR-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AR-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MetaHuman-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quixel-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ConvAI-5C2D91?style=for-the-badge"/>
+</p>
+
 ## 🌐 Connect With Me
 
 - 🌍 **Portfolio :** https://varshin-narasimman.lovable.app
