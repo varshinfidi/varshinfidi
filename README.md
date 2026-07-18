@@ -13,8 +13,8 @@ Building immersive XR experiences with Unreal Engine 5 🚀
 ## 👨‍💻 About Me
 
 - 💼 XR Developer with 1 year of professional experience
-- 🎮 Passionate about Unreal Engine 5 development
 - 🥽 Interested in Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR)
+- 🎮 Passionate about Unreal Engine 5 development and Unity Engine development 
 - 🌍 Environment & Level Designer
 - 🎬 Real-Time Cinematic Creator
 - 📍 Based in Chennai, India
