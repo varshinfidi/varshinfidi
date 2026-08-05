@@ -32,9 +32,7 @@ Building immersive XR experiences with Unreal Engine 5 🚀
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,blender&perline=4" />
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
